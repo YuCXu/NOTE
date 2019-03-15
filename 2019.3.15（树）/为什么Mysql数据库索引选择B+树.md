@@ -104,7 +104,7 @@ Windows NT内核中广泛存在；
 
 ⑧所有叶子结点位于同一层。
 
-![1552654500894](C:\Users\YuChen_Xu\Desktop\工具手册\每日知识点\NOTE\2019.3.15（树）\images\30.png)
+![1552654500894](https://github.com/YuCXu/NOTE/blob/master/2019.3.15%EF%BC%88%E6%A0%91%EF%BC%89/images/30.png)
 
 上面的图中比如35节点，35代表一个key(索引)，而小黑块代表的是这个key所指向的内容在内存中实际的存储位置，是一个指针。 
 
@@ -130,7 +130,7 @@ Windows NT内核中广泛存在；
 
 ⑥更适合于文件系统。
 
-![1552655538216](C:\Users\YuChen_Xu\Desktop\工具手册\每日知识点\NOTE\2019.3.15（树）\images\31.png)
+![1552655538216](https://github.com/YuCXu/NOTE/blob/master/2019.3.15%EF%BC%88%E6%A0%91%EF%BC%89/images/31.png)
 
 非叶子节点（比如5，28，65）只是一个key（索引），实际的数据存在叶子节点上（5，8，9）才是真正的数据或指向真实数据的指针。 
 

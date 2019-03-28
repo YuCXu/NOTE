@@ -4,7 +4,7 @@ select、poll、epoll都是IO多路复用的机制。IO多路复用就通过一�
 
 ##### 1、select实现
 
-![1](C:\Users\YuChen_Xu\Desktop\2019.3.28\images\1.PNG)
+![1](https://github.com/YuCXu/NOTE/blob/master/2019.3.28/images/1.PNG)
 
 （1）使用copy_from_user从用户空间拷贝fd_set到内核空间
 
